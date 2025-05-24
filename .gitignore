@@ -2,3 +2,6 @@
 *.tfstate.*
 *.tfplan
 .terraform/
+node_modules
+.terraform.lock.hcl
+.DS_Store
